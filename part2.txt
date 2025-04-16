@@ -8,6 +8,6 @@ Passphrase 6: ThisIsJSyay
 Passphrase 7: SofiaWasHere
 Passphrase 8: coolcoolcool3x 
 Passphrase 9: 2020_sucked
-Passphrase 10: listenToPetalCore
+Passphrase 10: listenToPetalcore
 Passphrase 11: ElaineFirst
-Passphrase 12:iHeartWebDev
+Passphrase 12: iHeartWebDev
